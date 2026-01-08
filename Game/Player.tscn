@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://d2b1vuaegblpy"]
 
-[ext_resource type="Texture2D" path="res://Assets/sprites/knight.png" id="1_xhfnw"]
+[ext_resource type="Texture2D" uid="uid://d4c21m2mkw7hu" path="res://Assets/sprites/knight.png" id="1_xhfnw"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_kpjcp"]
 atlas = ExtResource("1_xhfnw")
@@ -52,5 +52,5 @@ autoplay = "Idle"
 frame_progress = 0.6191324
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, -5)
+position = Vector2(0, -3)
 shape = SubResource("CircleShape2D_dtqjt")
