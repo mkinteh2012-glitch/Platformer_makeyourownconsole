@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=3 uid="uid://dn8fq3ms32trl"]
+[gd_scene load_steps=11 format=3 uid="uid://dn8fq3ms32trl"]
 
 [ext_resource type="PackedScene" uid="uid://d2b1vuaegblpy" path="res://Scenes/Player.tscn" id="1_cmw8w"]
 [ext_resource type="Script" uid="uid://bncvf7jcnotmc" path="res://Script/player.gd" id="2_or1io"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://di8jay2c8ae4k" path="res://Scenes/platform.tscn" id="4_ftcjt"]
 [ext_resource type="PackedScene" uid="uid://do2vc65cjfgjo" path="res://Scenes/Coin.tscn" id="5_k5hyf"]
 [ext_resource type="PackedScene" uid="uid://ctgo2numa56mb" path="res://Scenes/killzone.tscn" id="6_xp55e"]
+[ext_resource type="PackedScene" uid="uid://kiqcvqf18f3r" path="res://Scenes/slime.tscn" id="7_cy5s2"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ftcjt"]
 texture = ExtResource("3_k1ntv")
@@ -208,3 +209,6 @@ position = Vector2(-219, 175)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
 shape = SubResource("WorldBoundaryShape2D_cy5s2")
+
+[node name="Slime" parent="." instance=ExtResource("7_cy5s2")]
+position = Vector2(-295, 20)
