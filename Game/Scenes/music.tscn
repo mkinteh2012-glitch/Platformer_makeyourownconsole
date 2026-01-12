@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dv0p5qtperxwl"]
+
+[ext_resource type="AudioStream" uid="uid://cp8naa48juee5" path="res://Assets/Sound/3-05. Electroman Adventures.mp3" id="1_fbmny"]
+
+[node name="Music" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_fbmny")
+autoplay = true
+max_distance = 20000000000.0
+bus = &"Music"

@@ -5,6 +5,12 @@ const SPEED = 130.0
 const JUMP_VELOCITY = -300.0
 @onready var animated_sprite: AnimatedSprite2D = $AnimatedSprite2D # the animated sprite in player
 
+func _ready():
+	# Check the 'Global' memory we set up in your screenshot
+	if Global.checkpoint_pos != null:
+		# Teleport the player to the saved coordinates
+		global_position = Global.checkpoint_pos
+
 
 func _physics_process(delta: float) -> void:
 	# Add the gravity.

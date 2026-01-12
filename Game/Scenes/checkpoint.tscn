@@ -1,0 +1,141 @@
+[gd_scene load_steps=21 format=3 uid="uid://cqx7e2t3qc0l4"]
+
+[ext_resource type="Script" uid="uid://c4askqmxjisa6" path="res://Script/checkpoint.gd" id="1_2cwi7"]
+[ext_resource type="Texture2D" uid="uid://ckv3b3d400a7j" path="res://Assets/sprites/Spinning-Floppy-Disk.png" id="2_e75gc"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i1pff"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(0, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_opoc8"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(18, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_l0c30"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(36, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_w8ggu"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(54, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_naa5w"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(72, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2ra75"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(90, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cyhdq"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(108, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_17oai"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(126, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_85ulk"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(144, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_43lyo"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(162, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2f17r"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(180, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7sb06"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(198, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_b1mqk"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(216, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f6n1k"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(234, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_uf2ys"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(252, 0, 18, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mr78k"]
+atlas = ExtResource("2_e75gc")
+region = Rect2(270, 0, 18, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_xiy33"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_i1pff")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_opoc8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_l0c30")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_w8ggu")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_naa5w")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2ra75")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cyhdq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_17oai")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_85ulk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_43lyo")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_2f17r")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7sb06")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_b1mqk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f6n1k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_uf2ys")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mr78k")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_xmdtl"]
+size = Vector2(14, 14)
+
+[node name="Checkpoint" type="Area2D"]
+collision_mask = 2
+script = ExtResource("1_2cwi7")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_xiy33")
+autoplay = "default"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1, 0)
+shape = SubResource("RectangleShape2D_xmdtl")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

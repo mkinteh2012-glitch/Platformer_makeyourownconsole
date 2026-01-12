@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cp8naa48juee5"
+path="res://.godot/imported/3-05. Electroman Adventures.mp3-46a7534a157713ccc5bd9fb109d04f8c.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sound/3-05. Electroman Adventures.mp3"
+dest_files=["res://.godot/imported/3-05. Electroman Adventures.mp3-46a7534a157713ccc5bd9fb109d04f8c.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
