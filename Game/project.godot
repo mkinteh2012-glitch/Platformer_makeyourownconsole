@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Platformer"
-run/main_scene="uid://dn8fq3ms32trl"
+run/main_scene="uid://bl7byhxj34y8k"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 
 [autoload]
@@ -22,6 +22,12 @@ Global="*res://Script/Global.gd"
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
+
+[importer_defaults]
+
+animation_library={
+&"animation/fps": 120.0
+}
 
 [input]
 
