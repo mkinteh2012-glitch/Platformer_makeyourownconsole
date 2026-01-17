@@ -4,4 +4,4 @@ so after i searced for i while i found lots of cool controller but i want mine t
 
 1/17/25   
 PCB and dat stuff   
-So right now I just did schematic and PCB sry for the lack of journals I kinda have not a lot of time so right now I'm basiclly done all i need to do is make a BOM and a case so that what I am doing next
+So right now I just did schematic and PCB sry for the lack of journals I kinda have not a lot of time so right now I'm basiclly done all i need to do is make a BOM and because I want an exposed PCB because I think the green would look nice
