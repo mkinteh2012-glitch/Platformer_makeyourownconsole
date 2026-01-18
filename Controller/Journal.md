@@ -12,6 +12,7 @@ Time: 7h
 
 1/17/25    
 Firmware and BOM   
-So in the last entry I forgot about firmware so I did it and a did my BOM    
+So in the last entry I forgot about firmware so I did it and a did my BOM
+<img width="702" height="417" alt="Screenshot 2026-01-17 185919" src="https://github.com/user-attachments/assets/b0953f16-12fd-4a8f-8bd4-805987d5b259" />
 Time: 2h
 
