@@ -26,7 +26,9 @@ This is a controller made by me and powered by the
 This controller has the same layout as an Xbox 1 except no center button  
 Screenshots: 
 ![WIN_20260117_17_43_26_Pro](https://github.com/user-attachments/assets/6074ccbb-de7b-4113-986e-5382881a40c2)     
-<img width="824" height="517" alt="image" src="https://github.com/user-attachments/assets/555d63b1-2135-45fd-977b-fa45c5a2a1e8" />    
+<img width="824" height="517" alt="image" src="https://github.com/user-attachments/assets/555d63b1-2135-45fd-977b-fa45c5a2a1e8" />  
+<img width="702" height="417" alt="Screenshot 2026-01-17 185919" src="https://github.com/user-attachments/assets/abad4428-d7e4-4a7e-84a5-9c29d0c8905f" />
+
 
 
 
