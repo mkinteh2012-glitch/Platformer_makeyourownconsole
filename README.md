@@ -23,8 +23,8 @@ Screenshots:
 
 So now u can play!        
 This is a controller made by me and powered by the
-This controller has
-Screenshots
+This controller has the same layout as an Xbox 1 except no center button  
+Screenshots: 
 
 
 
