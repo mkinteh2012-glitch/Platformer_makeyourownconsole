@@ -12,7 +12,7 @@ This repo is organized into 5 sections.
 Pixel Platformer 
 
 Embark on an epic quest . . .     
-This is pixel platformer a game designed in Godot 4 for the console, (console name) this game is a platformer based off brackeye's tutorial 
+This is pixel platformer a game designed in Godot 4 for the console, Pixel Player 8 this game is a platformer based off brackeye's tutorial 
 You can play the game here: https://muhammad12412.itch.io/pixel-platformer 
 Watch the walkthrough here: https://www.youtube.com/watch?v=EgpC5o8dRrM 
 Screenshots:
