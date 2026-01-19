@@ -5,10 +5,10 @@ so after i searced for i while i found lots of cool controller but i want mine t
 Time: 1h
 
 1/17/25   
-PCB and dat stuff   
+PCB and Speedrunning schematic 
 So right now I just did schematic and PCB sry for the lack of journals I kinda have not a lot of time so right now I'm basiclly done all i need to do is make a BOM and because I want an exposed PCB because I think the green would look nice   
 <img width="824" height="517" alt="image" src="https://github.com/user-attachments/assets/555d63b1-2135-45fd-977b-fa45c5a2a1e8" />    
-Time: 7h
+Time: 5h
 
 1/17/25    
 Firmware and BOM   
