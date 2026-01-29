@@ -1,0 +1,11 @@
+Idea planning  
+1/20  
+So I spent a while looking at cool microcontroller for stuff like this and I am going to use the raspberry pi, but to make it portable, i need a screen a speaker and a battery and finally a way to help it all but that's for later next, I will find parts!  
+<img width="400" height="301" alt="image" src="https://github.com/user-attachments/assets/69d6df51-7d72-43fd-9029-5ce770b484d6" />   
+Time: 1h
+
+Parts searching   
+1/21
+So this was really boring, really really boring trying to search for cheap part and accounting for shipping it's a hole lot of math that I don't want to do but I got the price rn to around 150 so i guess I'll try to search some more later?  
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/e50addc6-a6ad-4608-82ea-1d2c65e90683" />   
+Time: 2h
