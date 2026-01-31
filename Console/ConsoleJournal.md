@@ -21,5 +21,11 @@ Did an hour of reaserch before bed yesterday and 1 and a half today it seems i'l
 Time: 2.5h
 
 More searching   
+1/24
 Today i did some searching on Ebay and amazon to find the PC i needed first i found it for 80 then i saw the same for 60 so this is really good next i finally gotta do case.   
 Time 1h
+
+1/25    
+Case  
+Ok so the ccase will be laptop style and the screen will mount on to a velco strap so i got fugured out spent 2 hours trying to find good dimension but settled on amazon spent an hour on reasech and 30 or wiring and cable organization   
+Time: 3h
