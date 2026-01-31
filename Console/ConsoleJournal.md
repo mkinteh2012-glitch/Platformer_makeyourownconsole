@@ -9,3 +9,17 @@ Parts searching
 So this was really boring, really really boring trying to search for cheap part and accounting for shipping it's a hole lot of math that I don't want to do but I got the price rn to around 150 so i guess I'll try to search some more later?  
 <img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/e50addc6-a6ad-4608-82ea-1d2c65e90683" />   
 Time: 2h
+
+Wii U    
+1/23  
+I'm kinda bored so i want my console to emulate stuff i haven't looked in to it did half an hour of reaseach but it seems a raspberry pi will not be fast enough to emulate it so i am gonna go find out what i can use   
+Time: .5h
+
+PC  
+1/24
+Did an hour of reaserch before bed yesterday and 1 and a half today it seems i'll have to use a mini pc the LENOVO THINKCENTRE M715Q so that wat i am using for size and also so i can use it except i'll need to find an adapter as it is a barrel jack and i also need to do some case research.   
+Time: 2.5h
+
+More searching   
+Today i did some searching on Ebay and amazon to find the PC i needed first i found it for 80 then i saw the same for 60 so this is really good next i finally gotta do case.   
+Time 1h
