@@ -25,7 +25,18 @@ More searching
 Today i did some searching on Ebay and amazon to find the PC i needed first i found it for 80 then i saw the same for 60 so this is really good next i finally gotta do case.   
 Time 1h
 
-1/25    
+1/25      
 Case  
-Ok so the ccase will be laptop style and the screen will mount on to a velco strap so i got fugured out spent 2 hours trying to find good dimension but settled on amazon spent an hour on reasech and 30 or wiring and cable organization   
-Time: 3h
+Ok so the ccase will be laptop style and the screen will mount on to a velco strap so i got fugured out spent 2 hours trying to find good dimension but settled on amazon spent an hour on reasech and another hour on wiring and cable organization      
+Time: 4h
+
+1/26    
+BOM  
+This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching, got price to 300 today!   
+Time: 1h
+
+
+1/27   
+BOM 2   
+This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching todays was boring couldn't reduce price still 300 . . .  
+Time: 1h
