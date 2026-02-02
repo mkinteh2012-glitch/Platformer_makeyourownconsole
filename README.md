@@ -37,7 +37,7 @@ This was made for .exe games making it possible to add other non godot games, Sc
 4. Console
 The console is povered by a mini PC and put is a case layout it hase foam for protection and holes can be cut in the case it hase speakers and everything needed
 
-TIME BREAKDOWN: Game: 13h via hackatime Controller 12h via journal launcher 7 via hackatime Console 18 via journal Total: 50h x 5 = $250
+TIME BREAKDOWN: Game: 13h via hackatime Controller 13h via journal launcher 9 via hackatime Console 18 via journal Total: 53h x 5 = $265
 
 
 
