@@ -6,14 +6,14 @@ Time: 1h
 
 1/17/25   
 PCB 
-So right now I just did  PCB  I kinda have not a lot of time so right now I'm basiclly done all i need to do is make a BOM and because I want an exposed PCB because I think the green would look nice i decided to do PCB first because i might not got schematic time to finish this up so imma back track to do schematic
+So right now I just did  PCB took a while had to redo routing A LOT, like 8 or 9 times because i kinda forgot about vias  I kinda have not a lot of time so right now I'm basiclly done all i need to do is make a BOM and because I want an exposed PCB because I think the green would look nice i decided to do PCB first because i might not got schematic time to finish this up so imma back track to do schematic
 <img width="824" height="517" alt="image" src="https://github.com/user-attachments/assets/555d63b1-2135-45fd-977b-fa45c5a2a1e8" />    
 Time: 5h
 
 1/17/25   
 Schematic
 So i found time and did schematic was kinda hard because it was a matter of translating because there is no auto feature for this one so next thing is the firmware   
-time: 2.5 h
+time: 3 h
 
 1/17/25    
 Firmware  
@@ -23,9 +23,8 @@ Time: 2h
 
 1/18/26   
 BOM  
-First please forgive me for putting wrong year BOM was easy took an hour of searching was 70 then did a bit more searching and got it to 52   
-  Time 1.5h
+ was easy took an hour of searching was 70 then did a bit more searching and got it to 52   
+  Time 2h
 
 
-  TOTAL: 12
-
+  TOTAL: 14
