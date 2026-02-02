@@ -40,3 +40,24 @@ Time: 1h
 BOM 2   
 This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching todays was boring couldn't reduce price still 300 . . .  
 Time: 1h
+
+
+1/28   
+BOM 3   
+This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching todays got it down to 280 
+time: 1h
+
+1/29 - 31   
+BOM 4 - 6  
+This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching kinda lazy and decided to make the last 3 days one journal total rn is 250 
+time: 1h
+
+2/1
+Controller   
+Spent a bit of time adding controller input to my godot and my launcher
+time: 1.5
+
+2/1  
+Ventilation  
+Of course i forgot about it, was just reasearch   
+1.5
