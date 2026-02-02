@@ -34,6 +34,10 @@ The launcher for this is very simple it uses python and has good capabilities an
 This was made for .exe games making it possible to add other non godot games, Screenshots:     
 <img width="1247" height="768" alt="Screenshot 2026-01-18 220551" src="https://github.com/user-attachments/assets/912ce692-cc2a-4fd3-87db-7ff0c60d6a92" />
 
+4. Console
+The console is povered by a mini PC and put is a case layout it hase foam for protection and holes can be cut in the case it hase speakers and everything needed
+
+TIME BREAKDOWN: Game: 13h via hackatime Controller 12h via journal launcher 7 via hackatime Console 18 via journal Total: 50h x 5 = $250
 
 
 
