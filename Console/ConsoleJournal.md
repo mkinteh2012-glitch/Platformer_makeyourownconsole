@@ -47,10 +47,10 @@ BOM 3
 This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching todays got it down to 280 
 time: 1h
 
-1/29 - 31   
+1/29 - 2/7 
 BOM 4 - 6  
 This is too expensive so for the rest of the month everyday for one hour imma gonna go parts searching kinda lazy and decided to make the last 3 days one journal total rn is 250 
-time: 1h
+time: 9h
 
 2/1
 Controller   
